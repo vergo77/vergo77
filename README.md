@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vergo77
-- 👀 I’m interested in electronics and HD micro devices
+- 👀 I’m interested in electronics and micro devices, and MotoGuzzi...
 - 🌱 I’m currently learning all I need
 - 💞️ I’m looking to collaborate on case of need
 - 📫 How to reach me? by mail
