@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vergo77
 - 👀 I’m interested in electronics and micro devices, and MotoGuzzi...
-- 🌱 I’m currently learning all I need
-- 💞️ I’m looking to collaborate on case of need
+- 🌱 I'm currently learning everything I need to learn
+- 💞️ In case of need, I'd like to collaborate.
 - 📫 How to reach me? by mail
 
 <!---
